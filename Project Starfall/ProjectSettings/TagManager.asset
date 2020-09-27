@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - claw07__1
+  - claw07__2
+  - claw07__3
+  - claw07__4
+  - claw07__5
+  - Route__claw07--1
+  - Route__Child
+  - Route__claw07--2
+  - Player bullet
+  - Enemy bullet
+  - Enemy healthbar
+  - Bar
+  - Claw13__1
+  - Claw13__Retreatpoint
+  - Claw13__AOE
+  - Claw13__frontalpoint
+  - Claw13__collider
+  - Claw13__attack
+  - Route__claw13--1
+  - Claw13__2
+  - Route__claw13--2
+  - Route__claw13--3
+  - Engine
+  - Claw05__attack
+  - circle
+  - Meteor
+  - Route__claw02--1
+  - Gunattack
+  - Laserattack
+  - Idlespot
+  - RocketAttack
+  - DW
+  - idlespot
+  - Rocket
+  - NoHitmarker
+  - Laserreceiver
+  - Wall
+  - Boundrie
+  - Angel-Zero__part
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - fire
+  - Player bullet
+  - Enemy bullet
+  - Player
+  - Enemy
+  - Angel Zero
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4183279083
+    locked: 0
+  - name: fire
+    uniqueID: 2957314663
+    locked: 0
+  - name: Player bullet
+    uniqueID: 4290263613
+    locked: 0
+  - name: Enemy bullet
+    uniqueID: 1625086761
+    locked: 0
+  - name: Player
+    uniqueID: 1503620019
+    locked: 0
+  - name: Enemy
+    uniqueID: 3391267221
+    locked: 0
+  - name: UI
+    uniqueID: 829852367
+    locked: 0
+  - name: Angel Zero
+    uniqueID: 1460352743
+    locked: 0
